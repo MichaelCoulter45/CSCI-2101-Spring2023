@@ -1,7 +1,6 @@
 package week1;
 
 public class hello_world {
-int i=0;
     public static void main(String[] args) {
         int i=0;
         System.out.println("Hello World!");
